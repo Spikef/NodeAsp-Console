@@ -1,0 +1,22 @@
+{
+  "name": "NodeAsp-Console",
+  "description": "A window command line tool for NodeAsp debug.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Spikef",
+    "email": "Spikef@Foxmail.com"
+  },
+  "keywords": [
+    "console",
+    "nodeasp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spikef/NodeAsp-Console.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
